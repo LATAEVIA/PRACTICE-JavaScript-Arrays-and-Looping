@@ -11,14 +11,3 @@ $(document).ready(function() {
     })
   });
 });
-
-//
-//     var newFav = [];
-//     newFav.push(fav[1],fav[0],fav[2]);
-//     // alert(newFav);
-//     event.preventDefault();
-//     $("#favTwo").empty().append(newFav[0]);
-//     $("#favOne").empty().append(newFav[1]);
-//     $("#favThree").empty().append(newFav[2]);
-//     $("#list").show();
-// });
